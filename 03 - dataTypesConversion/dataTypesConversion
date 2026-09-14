@@ -1,0 +1,17 @@
+let score = "33";
+let marks = "67xyz";
+console.log(typeof score);
+let valueInNumber = Number(score);
+console.log(typeof valueInNumber);
+let value = Number(marks);
+console.log(typeof value);
+console.log(value);
+let data = null;
+console.log(typeof data);
+let info = Number(data);
+console.log(info);
+let bool = true;
+let boolValue = Number(bool);
+console.log(boolValue);
+let hello = Boolean(score);
+console.log(hello);
