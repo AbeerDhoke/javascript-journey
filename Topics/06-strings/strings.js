@@ -16,7 +16,9 @@ console.log(anotherString);
 const newStringOne = "  Abeer  ";
 console.log(newStringOne);
 console.log(newStringOne.trim());
-console.log(gameName.replace('A', 'Ka'));
+console.log(newStringOne.includes('Abeer'));
+const newStringTwo = "Abeer-Avinash-Dhoke";
+console.log(newStringTwo.split('-'));
 
 
 
