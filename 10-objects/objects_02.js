@@ -61,3 +61,4 @@ console.log(Object.values(user));
 console.log(Object.entries(user));
 
 console.log(user.hasOwnProperty('name'));
+
